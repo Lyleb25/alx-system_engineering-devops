@@ -1,1 +1,1 @@
-first directory script
+move file script
