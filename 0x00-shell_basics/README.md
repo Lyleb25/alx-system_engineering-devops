@@ -1,1 +1,1 @@
-Pwd script
+ls script
