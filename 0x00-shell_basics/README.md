@@ -1,1 +1,1 @@
-ls script
+cd home script
