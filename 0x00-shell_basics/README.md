@@ -1,1 +1,1 @@
-cd home script
+long format
