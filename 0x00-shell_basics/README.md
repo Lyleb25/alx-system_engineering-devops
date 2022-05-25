@@ -1,1 +1,1 @@
-display numerically
+first directory script
