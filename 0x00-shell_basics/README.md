@@ -1,1 +1,1 @@
-hidden files long format
+display numerically
